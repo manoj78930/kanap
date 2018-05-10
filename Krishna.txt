@@ -1,0 +1,8 @@
+public Class Krishna{
+
+public static void main(String vams[]){
+ 
+	System.out,println("krishna's welcome code");
+}
+
+}
